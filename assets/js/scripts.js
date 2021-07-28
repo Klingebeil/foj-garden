@@ -1,33 +1,3 @@
-// Header interaction
-
-/* const headerEle = document.querySelector('#header')
-let headerElePosStore = 0
-
-const debounce = (fn) => {
-  let frame
-  return (...params) => {
-    if (frame) {
-      window.cancelAnimationFrame(frame)
-    }
-    frame = window.requestAnimationFrame(() => {
-      fn(...params)
-    })
-  }
-}
-
-const storeScroll = (event) => {
-  const bodyRect = document.body.getBoundingClientRect()
-  if (bodyRect.top < headerElePosStore &&
-    -headerEle.offsetHeight > bodyRect.top) {
-    headerEle.classList.add('header-inactive')
-  } else {
-    headerEle.classList.remove('header-inactive')
-  }
-  headerElePosStore = bodyRect.top
-}
-
-document.addEventListener('scroll', debounce(storeScroll), { passive: true }) */
-
 // Link preview
 
 let opacityTimeout
