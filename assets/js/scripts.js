@@ -1,6 +1,6 @@
 // Header interaction
 
-const headerEle = document.querySelector('#header')
+/* const headerEle = document.querySelector('#header')
 let headerElePosStore = 0
 
 const debounce = (fn) => {
@@ -26,7 +26,7 @@ const storeScroll = (event) => {
   headerElePosStore = bodyRect.top
 }
 
-document.addEventListener('scroll', debounce(storeScroll), { passive: true })
+document.addEventListener('scroll', debounce(storeScroll), { passive: true }) */
 
 // Link preview
 
