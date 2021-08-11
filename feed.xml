@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://foj-garden.johannesklingebiel.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foj-garden.johannesklingebiel.de/" rel="alternate" type="text/html" /><updated>2021-08-10T14:40:33+02:00</updated><id>https://foj-garden.johannesklingebiel.de/feed.xml</id><title type="html">Futures of Journalism | Notes</title><subtitle></subtitle><entry><title type="html">Indie-Coops</title><link href="https://foj-garden.johannesklingebiel.de/indie-coops" rel="alternate" type="text/html" title="Indie-Coops" /><published>2021-08-10T00:00:00+02:00</published><updated>2021-08-10T10:23:19+02:00</updated><id>https://foj-garden.johannesklingebiel.de/Indie-Coops</id><content type="html" xml:base="https://foj-garden.johannesklingebiel.de/indie-coops">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://foj-garden.johannesklingebiel.de/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foj-garden.johannesklingebiel.de/" rel="alternate" type="text/html" /><updated>2021-08-11T16:00:51+02:00</updated><id>https://foj-garden.johannesklingebiel.de/feed.xml</id><title type="html">Futures of Journalism | Notes</title><subtitle></subtitle><entry><title type="html">Indie-Coops</title><link href="https://foj-garden.johannesklingebiel.de/indie-coops" rel="alternate" type="text/html" title="Indie-Coops" /><published>2021-08-10T00:00:00+02:00</published><updated>2021-08-10T10:23:19+02:00</updated><id>https://foj-garden.johannesklingebiel.de/Indie-Coops</id><content type="html" xml:base="https://foj-garden.johannesklingebiel.de/indie-coops">&lt;ul&gt;
   &lt;li&gt;https://www.niemanlab.org/2021/08/racket-joins-a-rising-tide-of-journalist-owned-media-startups/&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -112,7 +112,39 @@
 &lt;blockquote&gt;
   &lt;p&gt;New paper examining research area and established industry concerned with predicting future protests and labor organizing activity across global supply chains based on various “publicly” accessible data such as social media posts
 &lt;a href=&quot;https://twitter.com/1roboter/status/1420488137227313156&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">INTRO Open Questions TBA Further Reading -TBA QUOTE New paper examining research area and established industry concerned with predicting future protests and labor organizing activity across global supply chains based on various “publicly” accessible data such as social media posts Link</summary></entry><entry><title type="html">Auto-Augmentation</title><link href="https://foj-garden.johannesklingebiel.de/auto-augmentation" rel="alternate" type="text/html" title="Auto-Augmentation" /><published>2021-07-27T00:00:00+02:00</published><updated>2021-08-08T19:44:41+02:00</updated><id>https://foj-garden.johannesklingebiel.de/Auto-Augmentation</id><content type="html" xml:base="https://foj-garden.johannesklingebiel.de/auto-augmentation">&lt;p&gt;TBA&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">INTRO Open Questions TBA Further Reading -TBA QUOTE New paper examining research area and established industry concerned with predicting future protests and labor organizing activity across global supply chains based on various “publicly” accessible data such as social media posts Link</summary></entry><entry><title type="html">Auto-Augmentation</title><link href="https://foj-garden.johannesklingebiel.de/auto-augmentation" rel="alternate" type="text/html" title="Auto-Augmentation" /><published>2021-07-27T00:00:00+02:00</published><updated>2021-08-11T16:00:50+02:00</updated><id>https://foj-garden.johannesklingebiel.de/Auto-Augmentation</id><content type="html" xml:base="https://foj-garden.johannesklingebiel.de/auto-augmentation">&lt;p&gt;&lt;img src=&quot;assets/images/forms-of-automation.svg&quot; alt=&quot;&quot; class=&quot;graphic&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Besserer Diskurs nötig&lt;/li&gt;
+  &lt;li&gt;Unterteilung von automatisierung in 4 Kategorien&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;01-management-automation&quot;&gt;01 Management Automation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Work below the Algorithm”&lt;/li&gt;
+  &lt;li&gt;Gig-Economy&lt;/li&gt;
+  &lt;li&gt;Social Media Algorithmen als Form dieser Automatisierung&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;02-labour-automation&quot;&gt;02 Labour Automation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Klassische Automatisierung”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;03-labour-augmentation&quot;&gt;03 Labour Augmentation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Transcription, Translating, Auto-Correction, etc., etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;04-management-augmentation&quot;&gt;04 Management Augmentation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dashboards&lt;/li&gt;
+  &lt;li&gt;Bossware&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;the-means-of-ai-production&quot;&gt;The means of AI production&lt;/h3&gt;
 
@@ -154,7 +186,7 @@
       &lt;p&gt;Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected. One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">TBA The means of AI production A lot of tools are either directly based on models developed and sold by big tech companies or use them in some capacity via an API As noted with other forms of [[The Publishing Stack]], users don‘t have a lot of control over the terms of this use, but their still beholden to these companies considering the cost of developing such models. Topics [[Future of Writing]] [[Casual Surveillance]] [[Big Data Investigative]] Open Questions TBA Further Reading Why AI is Harder Than We Think - arXiv Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected. One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.</summary></entry><entry><title type="html">The New Newsroom</title><link href="https://foj-garden.johannesklingebiel.de/the-new-newsroom" rel="alternate" type="text/html" title="The New Newsroom" /><published>2021-07-27T00:00:00+02:00</published><updated>2021-08-10T10:30:41+02:00</updated><id>https://foj-garden.johannesklingebiel.de/The%20New%20Newsroom</id><content type="html" xml:base="https://foj-garden.johannesklingebiel.de/the-new-newsroom">&lt;h3 id=&quot;the-redrawing-of-internal-borders&quot;&gt;The redrawing of internal Borders&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Besserer Diskurs nötig Unterteilung von automatisierung in 4 Kategorien 01 Management Automation “Work below the Algorithm” Gig-Economy Social Media Algorithmen als Form dieser Automatisierung 02 Labour Automation “Klassische Automatisierung” 03 Labour Augmentation Transcription, Translating, Auto-Correction, etc., etc. 04 Management Augmentation Dashboards Bossware The means of AI production A lot of tools are either directly based on models developed and sold by big tech companies or use them in some capacity via an API As noted with other forms of [[The Publishing Stack]], users don‘t have a lot of control over the terms of this use, but their still beholden to these companies considering the cost of developing such models. Topics [[Future of Writing]] [[Casual Surveillance]] [[Big Data Investigative]] Open Questions TBA Further Reading Why AI is Harder Than We Think - arXiv Even with today’s seemingly fast pace of AI breakthroughs, the development of long-promised technologies such as self-driving cars, housekeeping robots, and conversational companions has turned out to be much harder than many people expected. One reason for these repeating cycles is our limited understanding of the nature and complexity of intelligence itself.</summary></entry><entry><title type="html">The New Newsroom</title><link href="https://foj-garden.johannesklingebiel.de/the-new-newsroom" rel="alternate" type="text/html" title="The New Newsroom" /><published>2021-07-27T00:00:00+02:00</published><updated>2021-08-10T10:30:41+02:00</updated><id>https://foj-garden.johannesklingebiel.de/The%20New%20Newsroom</id><content type="html" xml:base="https://foj-garden.johannesklingebiel.de/the-new-newsroom">&lt;h3 id=&quot;the-redrawing-of-internal-borders&quot;&gt;The redrawing of internal Borders&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;product and reporting have to cooperate more closely while keeping their distance from advertising&lt;/li&gt;
