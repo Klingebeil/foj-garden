@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="443px" height="443px" viewBox="0 0 443 443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vorschaubild" transform="translate(-177.000000, -28.000000)">
+            <g id="Group-2" transform="translate(177.000000, 28.000000)">
+                <line x1="223.5" y1="21.5" x2="222.5" y2="421.5" id="Line" stroke="#4C4C4C" stroke-linecap="square"></line>
+                <text id="Automation" font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                    <tspan x="180.500641" y="14">AUTOMATION</tspan>
+                </text>
+                <text id="Augmentation" font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                    <tspan x="172.100769" y="439">AUGMENTATION</tspan>
+                </text>
+                <line x1="222" y1="21" x2="221" y2="421" id="Line" stroke="#4C4C4C" stroke-linecap="square" transform="translate(221.500000, 221.000000) rotate(-90.000000) translate(-221.500000, -221.000000) "></line>
+                <text id="Management" transform="translate(9.000000, 221.500000) rotate(-90.000000) translate(-9.000000, -221.500000) " font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                    <tspan x="-37.1994019" y="226.5">MANAGEMENT</tspan>
+                </text>
+                <text id="Labour" transform="translate(434.000000, 221.500000) scale(-1, -1) rotate(-90.000000) translate(-434.000000, -221.500000) " font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                    <tspan x="408.800385" y="226.5">LABOUR</tspan>
+                </text>
+                <g id="Group" transform="translate(100.000000, 99.000000)">
+                    <circle id="Oval" fill="#FFC303" cx="23" cy="23" r="23"></circle>
+                    <text id="01" font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="14.6001282" y="28">01</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy" transform="translate(296.000000, 99.000000)">
+                    <circle id="Oval" fill="#FFC303" cx="23" cy="23" r="23"></circle>
+                    <text id="02" font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="14.6001282" y="28">02</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-2" transform="translate(296.000000, 295.000000)">
+                    <circle id="Oval" fill="#FFC303" cx="23" cy="23" r="23"></circle>
+                    <text id="03" font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="14.6001282" y="28">03</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-3" transform="translate(100.000000, 295.000000)">
+                    <circle id="Oval" fill="#FFC303" cx="23" cy="23" r="23"></circle>
+                    <text id="04" font-family="iAWriterQuattroV-Text, iA Writer Quattro V" font-size="14" font-weight="normal" fill="#4C4C4C">
+                        <tspan x="14.6001282" y="28">04</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
