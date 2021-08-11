@@ -122,7 +122,7 @@ if (typeof window.graphData !== 'undefined') {
   const STROKE = 1
   const FONT_SIZE = 12
   const TICKS = 200
-  const FONT_BASELINE = 42
+  const FONT_BASELINE = -5 //42
   const MAX_LABEL_LENGTH = 50
 
   const nodesData = window.graphData.nodes
